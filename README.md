@@ -24,3 +24,9 @@ Your brain figures this out by looking for and interpreting sentiment-bearing ph
 
 You have encountered words like these many thousands of times over your lifetime across a range of contexts. And from these experiences, you’ve learned to understand the strength of each adjective, receiving input and feedback along the way from teachers and peers.
 
+
+For more information on Sentiment analysis please refer to below links:
+1. https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17
+2. https://monkeylearn.com/sentiment-analysis/
+3. https://www.lexalytics.com/technology/sentiment-analysis
+4. https://www.brandwatch.com/blog/understanding-sentiment-analysis/
