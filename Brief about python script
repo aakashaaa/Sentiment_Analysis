@@ -1,0 +1,19 @@
+# Sentiment analysis using Google News
+
+### Project Brief
+
+As we know the basic terminology about Sentiment Analysis. In this project we are going to use Google News as a main source to scrap texts and find sentiments from it.
+
+### Advantages / Applications
+
+Many times we come across a request to know any recent news about a person / entity / company / etc. news over past few years over the internet. This helps us with initial judgements in our process.
+For example, if a person wants to join a new firm, he might go to Google to read about the company, it's work culture and it's past performance. Going through different web links that person makes up his / her judgement of how the company is performing in news right now.
+
+Sentiment analysis here helps us to automate that particular process. Though by looking at the example above one might think why would we want to automate our random searches. Funny as it seems, but there are many process which require Sentiment analysis on daily basis.
+Followed to our next example a company want to see its products performance basis of customers' reviews. Now this requires automation, Right?
+
+My python code actually will help you to automate this process.
+All you need is to put names and number of posts you want to go through.
+Input file will look something like this:
+
+
